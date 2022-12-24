@@ -25,7 +25,7 @@ To use this application, use the command ```npm install``` to download the neces
 ## Usage
 To use this application, add your MySQL username and password to an environment variable file. In the designated folder, connect your database through Sequelize using the command ``` source db/schema.sql.``` Next, seed your database using the command line and entering ```npm run seed.``` Finally, run the application by entering the command ```npm start.```
 
-For a better understanding of it's functionality and how to use the program, feel free to view the [Walk-through Video](https://drive.google.com/file/d/1F33IUZpy6NtprKZ0wpC2Fj78br29KUjN/view).
+For a better understanding of it's functionality and how to use the program, feel free to view the [Walk-through Video](https://watch.screencastify.com/v/2XsHtMBrL2eFTfH6THlM).
 
 
 ## License
